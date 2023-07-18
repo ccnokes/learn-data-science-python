@@ -1,4 +1,4 @@
-# This is where I'm learning python
+# This is where I'm learning data science with python
 
 ## Virtual env
 
